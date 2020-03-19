@@ -1,0 +1,12 @@
+{
+  "name": "protractor-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spec.js",
+  "scripts": {
+    "server": "webdriver-manager update && webdriver-manager start",
+    "test": "protractor conf.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
